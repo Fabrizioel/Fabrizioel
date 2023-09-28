@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="start">Hi there, I´m Fabrizio 👋</h2>
 
-<!--
-**Fabrizioel/Fabrizioel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Engineer. Fast learner, self-taught and collaborative.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working with Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me :
+  - **fabrizioel_21@outlook.com**
+  - **www.linkedin.com/in/fabrizio-espinoza-linares**
+
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,py,django,js,ts,angular,react,redux,jquery,nodejs,express,cs,dotnet,php,dart,flutter,solidity,postgres,mongodb,mysql,sqlite,html,css,bootstrap,tailwind,materialui,aws,firebase,gcp,azure,ipfs,git,github,idea,vscode,androidstudio,visualstudio,postman,linux&theme=light" />
+  </a>
+</p>
