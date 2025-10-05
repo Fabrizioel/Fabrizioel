@@ -1,8 +1,6 @@
-<h2 align="start">Hi there, I´m Fabrizio 👋</h2>
+<h2 align="start">Hello there, I´m Fabrizio 👋</h2>
 
-I'm a Full-Stack Engineer. Fast learner, self-taught and collaborative.
-
-- 🔭 I'm currently working with Django.
+I'm a Software Engineer. Fast learner, self-taught and collaborative.
 
 - 📫 How to reach me :
   - **fabrizioel_21@outlook.com**
